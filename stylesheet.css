@@ -68,8 +68,8 @@ header {
     height: 420px;
     object-fit: cover;
     margin: 0 auto 80px;
-    background-image: url(mainvisual-pc.jpg);/* 画像を中央揃え */
-    background-position: center;
+    background-image: url(mainvisual-pc.jpg);
+    background-position: center; /* 画像を中央揃え */
 }
 
 /* MAIN
